@@ -1,0 +1,13 @@
+body {
+  font-family: 'Raleway Dots', cursive;
+  background-color: #3017a1;
+  color: white;
+}
+
+a {
+  color:#ffdc28;
+}
+
+.title {
+  font-size: 14rem;
+}
